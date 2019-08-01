@@ -8,3 +8,18 @@ South African Member Of Parliament Data
 ## Downstream Tasks
 
 If you come up with a downstream task, let us know. 
+
+## Authors
+
+* **Vukosi Marivate** - *Initial work* - [vukosim](https://github.com/vukosim)
+* **Zamantungwa Khumalo** - *Google Doc* - [Zamantungwa Khumalo](https://twitter.com/Zamantungwa_K)
+
+See also the list of [contributors](https://github.com/dsfsi/sa-parliament/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* https://twitter.com/twittergov/lists/uk-mp
