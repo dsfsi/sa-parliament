@@ -1,5 +1,8 @@
+[![License:
+MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # sa-parliament
-South African Member Of Parliament Data
+South African Member Of Parliament Data and Tools
 
 ## Datasets [data]
 
