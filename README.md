@@ -20,10 +20,6 @@ If you come up with a downstream task, let us know.
 
 See also the list of [contributors](https://github.com/dsfsi/sa-parliament/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * https://twitter.com/twittergov/lists/uk-mp
