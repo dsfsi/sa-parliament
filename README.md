@@ -1,6 +1,7 @@
-[![License:
+Code License: [![License:
 MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+Data License: [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 # sa-parliament
 South African Member Of Parliament Data and Tools
 
@@ -18,10 +19,6 @@ If you come up with a downstream task, let us know.
 * **Zamantungwa Khumalo** - *Google Doc* - [Zamantungwa Khumalo](https://twitter.com/Zamantungwa_K)
 
 See also the list of [contributors](https://github.com/dsfsi/sa-parliament/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
