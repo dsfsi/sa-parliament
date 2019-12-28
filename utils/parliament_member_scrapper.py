@@ -98,7 +98,10 @@ class ParliamentMembers:
         members_data = []
 
         for member_url in tqdm(members_url):
-            members_data.append(self.get_person_delayed(member_url))
+            try:
+                members_data.append(self.get_person_delayed(member_url))
+            except Exception:
+                print(f"Failed to get members information: {member_url}")
 
         self.dataframe = pd.DataFrame(members_data, columns=self._columns)
         self.dataframe.replace("", np.nan, inplace=True, regex=True)
@@ -114,7 +117,7 @@ def main():
 
     parliament_data = ParliamentMembers(URL)
     parliament_data.get_all_members_info()
-    csv_path = Path("data") / f"member_data_{time.strftime('%Y_%m_%d')}.csv"
+    csv_path = f"member_data_{time.strftime('%Y_%m_%d')}.csv"
     print(f"Writing data to csv file: {csv_path.as_posix()!r}")
     parliament_data.dataframe.to_csv(csv_path)
 
