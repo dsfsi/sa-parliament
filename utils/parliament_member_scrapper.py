@@ -118,8 +118,9 @@ def main():
     parliament_data = ParliamentMembers(URL)
     parliament_data.get_all_members_info()
     csv_path = f"member_data_{time.strftime('%Y_%m_%d')}.csv"
-    print(f"Writing data to csv file: {csv_path.as_posix()!r}")
     parliament_data.dataframe.to_csv(csv_path)
+    print("Wrote data to csv file: %s" % csv_path)
+    # parliament_data.dataframe.to_csv(csv_path)
 
 
 if __name__ == "__main__":
