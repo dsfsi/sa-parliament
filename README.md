@@ -1,9 +1,7 @@
-Code License: [![License:
-MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-Data License: [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 # sa-parliament
 South African Member Of Parliament Data and Tools
+
+Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf7S36dyAUPx2egmXbFpnTBuzoRulhL5Elu-N1eoMhaO7v10w/formResponse)
 
 ## Datasets [data]
 
@@ -23,3 +21,10 @@ See also the list of [contributors](https://github.com/dsfsi/sa-parliament/contr
 ## Acknowledgments
 
 * https://twitter.com/twittergov/lists/uk-mp
+
+## License
+Code License: [![License:
+MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+Data License: [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
